@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yeh</groupId>
-    <artifactId>pro</artifactId>
+    <artifactId>enter_dev_back</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>enter_dev</name>
     <description>enter_dev</description>
